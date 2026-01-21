@@ -7,7 +7,7 @@ It's just the standard hackpad you can find the toturial to on blueprint.hackclu
 ## How I made it
 I designed the PCB in KiCad.  
 I designed the case in Fusion 360.  
-The firmware is written in [QMK/CircuitPython/etc].
+The firmware is written in QMK.
 
 ## Files
 - /pcb → PCB design files  
